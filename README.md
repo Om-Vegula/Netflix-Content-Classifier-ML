@@ -31,4 +31,4 @@ Can we predict if a Netflix title is a Movie or a TV Show based on its metadata?
 
 ---
 **Maintained by:** [Om Vegula]  
-**Connect with me:** [www.linkedin.com/in/om-vegula-3a073a367]
+**Connect with me:** [www.linkedin.com/in/om-vegula]
